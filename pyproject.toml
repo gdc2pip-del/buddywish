@@ -1,0 +1,11 @@
+[project]
+name = "buddywish"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "aiogram>=3.28.2",
+    "aiosqlite>=0.22.1",
+    "apscheduler>=3.11.2",
+    "python-dotenv>=1.2.2",
+]
